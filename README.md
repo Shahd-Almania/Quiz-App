@@ -1,7 +1,6 @@
 # Quiz-App
 ## Used:
 * HTML
-* Bootstrap
 * CSS
 * JavaScript
 * React
